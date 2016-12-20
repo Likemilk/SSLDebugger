@@ -1,0 +1,168 @@
+[2016-12-19 11:52:25] -- ssl.yjcho.client.service.ClientService ## [DEBUG] :: 
+-----------------------------------------------------------------
+################### Running this https debugger program. #################
+ [log folder path] : C:/Workspace/JavaWorkspace/SSLpractice/JAVAfeatIBM/SSL_HOME/logs
+ [log file name] : ssl_home_log_[yyyy-MM-dd].log
+ [test host IP or domain] : likemilk.fun25.co.kr
+ [test host port [default:443]] : 443
+
+ 					 Create by dydwls121200@gmail.com 
+ ######################################################################## 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] ::  
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] ::  
+
+
+
+			 StackOverFlow Searching Results 
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  1
+[votes] : 8
+[title] : Handshake alert: unrecognized_name error
+[url] : http://stackoverflow.com/questions/15725118/handshake-alert-unrecognized-name-error
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  2
+[votes] : 3
+[title] : W3C validator: "handshake alert: unrecognized_name"
+[url] : http://stackoverflow.com/questions/33580702/w3c-validator-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  3
+[votes] : 0
+[title] : Handshake alert: Unrecognized_name Liberty Profile
+[url] : http://stackoverflow.com/questions/37206209/handshake-alert-unrecognized-name-liberty-profile
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  4
+[votes] : 0
+[title] : Can't resolve SSLProtocolException handshake alert: unrecognized_name error
+[url] : http://stackoverflow.com/questions/35718279/cant-resolve-sslprotocolexception-handshake-alert-unrecognized-name-error
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  5
+[votes] : 0
+[title] : Faraday::SSLError?at?/callback handshake alert: unrecognized_name
+[url] : http://stackoverflow.com/questions/39712534/faradaysslerror-at-callback-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  6
+[votes] : 1
+[title] : Exception in thread "main" javax.ws.rs.ProcessingException: javax.net.ssl.SSLProtocolException: handshake alert: unrecognized_name
+[url] : http://stackoverflow.com/questions/34093951/exception-in-thread-main-javax-ws-rs-processingexception-javax-net-ssl-sslpro
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  7
+[votes] : 176
+[title] : SSL handshake alert: unrecognized_name error since upgrade to Java 1.7.0
+[url] : http://stackoverflow.com/questions/7615645/ssl-handshake-alert-unrecognized-name-error-since-upgrade-to-java-1-7-0
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  8
+[votes] : 0
+[title] : CFFEED Unable to read the source URL. handshake alert: unrecognized_name
+[url] : http://stackoverflow.com/questions/35105041/cffeed-unable-to-read-the-source-url-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  9
+[votes] : 0
+[title] : SSL javax.net.ssl.SSLProtocolException: handshake alert: unrecognized_name Accept this
+[url] : http://stackoverflow.com/questions/32713522/ssl-javax-net-ssl-sslprotocolexception-handshake-alert-unrecognized-name-accep
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  10
+[votes] : 1
+[title] : SSLProtocolException: handshake alert: unrecognized_name: client-side code workaround?
+[url] : http://stackoverflow.com/questions/23870899/sslprotocolexception-handshake-alert-unrecognized-name-client-side-code-worka
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  11
+[votes] : 1
+[title] : Jmeter - Non HTTP response message: handshake alert: unrecognized_name
+[url] : http://stackoverflow.com/questions/38706221/jmeter-non-http-response-message-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  12
+[votes] : 1
+[title] : Checking out maven project error. "handshake alert: unrecognized_name"
+[url] : http://stackoverflow.com/questions/32920257/checking-out-maven-project-error-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  13
+[votes] : 2
+[title] : Java - javax.net.ssl.SSLProtocolException: handshake alert: unrecognized_name - SNI is disabled
+[url] : http://stackoverflow.com/questions/29511233/java-javax-net-ssl-sslprotocolexception-handshake-alert-unrecognized-name
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  14
+[votes] : 0
+[title] : javax.net.ssl.SSLProtocolException: handshake alert: unrecognized_name while connecting to the https url via groovy
+[url] : http://stackoverflow.com/questions/22500339/javax-net-ssl-sslprotocolexception-handshake-alert-unrecognized-name-while-con
+========================================================
+
+
+ 
+[2016-12-19 11:52:27] -- ssl.yjcho.client.util.ResultUtil ## [DEBUG] :: 
+=====================================================
+[rank] :  15
+[votes] : 0
+[title] : /usr/bin/java SSLPoke gives error javax.net.ssl.SSLProtocolException: handshake alert: unrecognized_name
+[url] : http://stackoverflow.com/questions/37661483/usr-bin-java-sslpoke-gives-error-javax-net-ssl-sslprotocolexception-handshake
+========================================================
+
+
+ 
